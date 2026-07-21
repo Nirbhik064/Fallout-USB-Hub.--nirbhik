@@ -1,2 +1,1 @@
-# Fallout-USB-Hub.--nirbhik
-<img width="1410" height="2000" alt="Untitled design" src="https://github.com/user-attachments/assets/c74d5f67-4301-48bd-821a-4d11876a4a4b" />
+<img width="1587" height="2245" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/e25be8d5-9636-4c78-aee6-74ca1ffbbd39" />
