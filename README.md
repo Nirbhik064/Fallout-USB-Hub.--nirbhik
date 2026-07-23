@@ -4,8 +4,8 @@
 I know, the name is _really well thought of_. But, this is a Usb hub designed which contains a custom-made PCB and a custom-made case which looks _almost_ like our mascot, Soup.
 This is really like a redstone repeater on steroids as it can be used for pludding 4 extra Usb appliances with the help of only one port on either your laptop or your pc. It really is just a simple USB-Hub which has a single USB-C port at the top as an input port, and two USB-C type and two USB-A ports on its sides and bottom respectively.
 
-
 **Here's what the PCB looks like:**
+
 <img width="483" height="482" alt="image" src="https://github.com/user-attachments/assets/a7d58c95-6696-45c2-bdc1-5f424470499b" />
 _This is the front._
 <img width="426" height="499" alt="image" src="https://github.com/user-attachments/assets/03f57a41-fef5-4b84-9387-8049c49a0db5" />
