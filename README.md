@@ -14,3 +14,5 @@ _And this is the back._
 **And, here's wht its Schematics looks like:**
 <img width="1008" height="521" alt="image" src="https://github.com/user-attachments/assets/c6b376cf-c119-4a9f-828a-bdda043b298d" />
 
+Here is what the case for it looks like;
+<img width="616" height="377" alt="image" src="https://github.com/user-attachments/assets/932261e5-4f2f-4b7d-98a9-b46b4fdf24f0" />
