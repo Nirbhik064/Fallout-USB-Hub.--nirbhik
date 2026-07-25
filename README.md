@@ -22,10 +22,10 @@ Here is the BOM of the entire project;
 
 And, here are the respective links or them.
 
-https://www.lcsc.com/product-detail/C2684433.html
-https://www.lcsc.com/product-detail/C668591.html
-https://www.lcsc.com/product-detail/C2889373.html
-https://shorturl.at/DtB7Y
-https://shorturl.at/TRKkF
-https://shorturl.at/FAyh9
-https://shorturl.at/HJUoU 
+1. https://www.lcsc.com/product-detail/C2684433.html
+2. https://www.lcsc.com/product-detail/C668591.html
+3. https://www.lcsc.com/product-detail/C2889373.html
+4. https://shorturl.at/DtB7Y
+5. https://shorturl.at/TRKkF
+6. https://shorturl.at/FAyh9
+7. https://shorturl.at/HJUoU 
