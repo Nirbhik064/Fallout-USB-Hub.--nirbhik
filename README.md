@@ -16,3 +16,17 @@ _And this is the back._
 
 Here is what the case for it looks like;
 <img width="616" height="377" alt="image" src="https://github.com/user-attachments/assets/932261e5-4f2f-4b7d-98a9-b46b4fdf24f0" />
+
+Here is the BOM of the entire project;
+
+S.N.|   Name of                      |   Minimum  |	Unit  |   No. of      |	Cost. |Links
+    |  Component	                   | units sold | Price.| units needed. |       |
+----|--------------------------------|------------|-------|---------------|-------|-------------------------------------------------------
+1	  |CoreChips SL2.1s	               |  5	        | $0.25 |   1	          | $1.2  | https://www.lcsc.com/product-detail/C2684433.html
+2	  |SHOU HAN 10.0 QHHTB6 USB-A port |	10        | $0.06 |   2           | $0.63 | https://www.lcsc.com/product-detail/C668591.html
+3	  |5.6K resistors 	               |  10        | $0.02 |   4	          | $0.21 | https://www.lcsc.com/product-detail/C2889373.html
+4	  |SHOU HAN TYPE-C 16 PIN 2MD(073) |	20	      | $0.07 |   3          	| $1.41 | https://shorturl.at/DtB7Y
+5	  |     5.1K resistors             |  100       | $0.01 |   2           | $0.69 | https://shorturl.at/TRKkF
+6	  |     1uf Capacitors	           |  10	      | $0.06 |   8	          | $0.56 | https://shorturl.at/FAyh9
+7	  |     100nf Capacitors	         |  20	      | $0.03 |   3	          | $0.65 | https://shorturl.at/HJUoU 
+<img width="1121" height="161" alt="image" src="https://github.com/user-attachments/assets/1a48a686-39d3-4355-abc1-7469bf16de6d" />
