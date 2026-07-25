@@ -29,3 +29,4 @@ And, here are the respective links or them.
 5. https://shorturl.at/TRKkF
 6. https://shorturl.at/FAyh9
 7. https://shorturl.at/HJUoU 
+The total cost for the components is USD $5.42 without shipping! The PCB manufacturing price will differ from sites.
