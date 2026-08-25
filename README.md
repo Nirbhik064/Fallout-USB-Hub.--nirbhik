@@ -9,17 +9,23 @@ This is really like a redstone repeater on steroids as it can be used for pluddi
 **Here's what the PCB looks like:**
 
 <img width="483" height="482" alt="image" src="https://github.com/user-attachments/assets/a7d58c95-6696-45c2-bdc1-5f424470499b" />
+
 _This is the front._
+
 <img width="426" height="499" alt="image" src="https://github.com/user-attachments/assets/03f57a41-fef5-4b84-9387-8049c49a0db5" />
+
 _And this is the back._
 
+
 **And, here's wht its Schematics looks like:**
+
 <img width="1008" height="521" alt="image" src="https://github.com/user-attachments/assets/c6b376cf-c119-4a9f-828a-bdda043b298d" />
 
 Here is what the case for it looks like;
 <img width="616" height="377" alt="image" src="https://github.com/user-attachments/assets/932261e5-4f2f-4b7d-98a9-b46b4fdf24f0" />
 
 Here is the BOM of the entire project;
+
 <img width="1121" height="161" alt="image" src="https://github.com/user-attachments/assets/1a48a686-39d3-4355-abc1-7469bf16de6d" />
 
 And, here are the respective links or them.
@@ -31,4 +37,5 @@ And, here are the respective links or them.
 5. https://shorturl.at/TRKkF
 6. https://shorturl.at/FAyh9
 7. https://shorturl.at/HJUoU 
+
 The total cost for the components is USD $5.42 without shipping! The PCB manufacturing price will differ from sites.
