@@ -43,7 +43,7 @@ The total cost for the components is USD $5.42 without shipping! The PCB manufac
 
 
 **The Build Guide**
-1. You will need a soldering iron, flux and solder wires to make this project. And, a small amount of superglue.
+1. You will need a soldering iron, flux and solder wires to make this project. And, a small amount of superglue, along with some rubbing/isopropyl alcohol.
 2. So, first of all, take out the PCB from its packaging, and wipe it with some isopropyl alcohol to remove any finishing oils, etc. from its surface.
 3. Now, sand off the sides of the PCB to make it just a bit smaller so that, it can be place inside the case without much issue. After sanding, wipe off the borad, and again with the alcohol.
 4. Now, take the IC, and place it with the correct orientation on the pcb, heat the soldering iron, and use some flux and solder to join it to the PCB.
