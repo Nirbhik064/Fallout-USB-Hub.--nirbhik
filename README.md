@@ -40,3 +40,16 @@ And, here are the respective links or them.
 7. https://shorturl.at/HJUoU 
 
 The total cost for the components is USD $5.42 without shipping! The PCB manufacturing price will differ from sites.
+
+
+**The Build Guide**
+1. You will need a soldering iron, flux and solder wires to make this project. And, a small amount of superglue.
+2. So, first of all, take out the PCB from its packaging, and wipe it with some isopropyl alcohol to remove any finishing oils, etc. from its surface.
+3. Now, sand off the sides of the PCB to make it just a bit smaller so that, it can be place inside the case without much issue. After sanding, wipe off the borad, and again with the alcohol.
+4. Now, take the IC, and place it with the correct orientation on the pcb, heat the soldering iron, and use some flux and solder to join it to the PCB.
+5. Take, the capacitors, and the resistors, and place them into their respective places, and solder them accordingly
+6. Now, take the USB-c port for the input line, carefully place it on the throughput holes, and solder it together.
+7. Do the same for the output USB-c and USB-a ports rspectively.
+8. Afterwards, as all the components are soldered to the PCB, check it by plugging a USB-C cord to the input port and test the other ports for output with the help of other cables.
+9. Lastly, place the pcb on the case, and then just add 2 drops of superglue on the inside part of the case's bottom half, and carefully stick the top plate to it. It should easily slide in to hold it properly in place.
+10. Finally, you are done with your USB Hub.
