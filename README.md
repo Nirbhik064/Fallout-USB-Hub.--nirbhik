@@ -23,7 +23,8 @@ _And this is the back._
 
 Also, this is what the case for it looks like;
 
-<img width="616" height="377" alt="image" src="https://github.com/user-attachments/assets/932261e5-4f2f-4b7d-98a9-b46b4fdf24f0" />
+<img width="433" height="350" alt="image" src="https://github.com/user-attachments/assets/45dfbd48-4ff6-430f-a09d-39d93fabbc03" />
+
 
 Here is the BOM of the entire project;
 
@@ -43,7 +44,7 @@ The total cost for the components is USD $5.42 without shipping! The PCB manufac
 
 
 **The Build Guide**
-1. You will need a soldering iron, flux and solder wires to make this project. And, a small amount of superglue, along with some rubbing/isopropyl alcohol.
+1. You will need a soldering iron, flux and solder wires to make this project. And, a small amount of some rubbing/isopropyl alcohol.
 2. So, first of all, take out the PCB from its packaging, and wipe it with some isopropyl alcohol to remove any finishing oils, etc. from its surface.
 3. Now, sand off the sides of the PCB to make it just a bit smaller so that, it can be place inside the case without much issue. After sanding, wipe off the borad, and again with the alcohol.
 4. Now, take the IC, and place it with the correct orientation on the pcb, heat the soldering iron, and use some flux and solder to join it to the PCB.
@@ -51,5 +52,5 @@ The total cost for the components is USD $5.42 without shipping! The PCB manufac
 6. Now, take the USB-c port for the input line, carefully place it on the throughput holes, and solder it together.
 7. Do the same for the output USB-c and USB-a ports rspectively.
 8. Afterwards, as all the components are soldered to the PCB, check it by plugging a USB-C cord to the input port and test the other ports for output with the help of other cables.
-9. Lastly, place the pcb on the case, and then just add 2 drops of superglue on the inside part of the case's bottom half, and carefully stick the top plate to it. It should easily slide in to hold it properly in place.
-10. Finally, you are done with your USB Hub.
+9. Lastly, place the pcb on the bottom half of the case, and then just insert the top part onto it, press gently till you hear a snap.
+26. Finally, you are done with your USB Hub.
