@@ -8,11 +8,12 @@ This is really like a redstone repeater on steroids as it can be used for pluddi
 
 **Here's what the PCB looks like:**
 
-<img width="483" height="482" alt="image" src="https://github.com/user-attachments/assets/a7d58c95-6696-45c2-bdc1-5f424470499b" />
+<img width="357" height="601" alt="image" src="https://github.com/user-attachments/assets/9c5b3e3a-6bc4-4849-be6f-bd9bb394e619" />
+
 
 _This is the front._
 
-<img width="426" height="499" alt="image" src="https://github.com/user-attachments/assets/03f57a41-fef5-4b84-9387-8049c49a0db5" />
+<img width="657" height="530" alt="image" src="https://github.com/user-attachments/assets/67e6a8d6-5fdd-4421-879a-f1a794fa3d15" />
 
 _And this is the back._
 
