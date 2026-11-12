@@ -29,7 +29,8 @@ Also, this is what the case for it looks like;
 
 Here is the BOM of the entire project;
 
-<img width="1121" height="161" alt="image" src="https://github.com/user-attachments/assets/1a48a686-39d3-4355-abc1-7469bf16de6d" />
+<img width="1044" height="275" alt="image" src="https://github.com/user-attachments/assets/46c96bd4-9874-4a63-91f4-f73ce9553282" />
+
 
 And, here are the respective links or them.
 
@@ -41,7 +42,7 @@ And, here are the respective links or them.
 6. https://shorturl.at/FAyh9
 7. https://shorturl.at/HJUoU 
 
-The total cost for the components is USD $5.42 without shipping! The PCB manufacturing price will differ from sites.
+The total cost for the components is USD $5.42, and the price of the PCB with the case will be $29.80 totalling $35.22 without shipping! The PCB manufacturing price will differ from sites.
 
 
 **The Build Guide**
