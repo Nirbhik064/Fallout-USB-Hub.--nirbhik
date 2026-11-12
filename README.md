@@ -4,7 +4,7 @@
 
 **This**, is a custom-made USB-hub designed with the help of the guide provided in the docs of the Fallout page.
 I know, the name is _really well thought of_. But, this is a Usb hub designed which contains a custom-made PCB and a custom-made case which looks _almost_ like our mascot, Soup.
-This is really like a redstone repeater on steroids as it can be used for pludding 4 extra Usb appliances with the help of only one port on either your laptop or your pc. It really is just a simple USB-Hub which has a single USB-C port at the top as an input port, and two USB-C type and two USB-A ports on its sides and bottom respectively.
+This is really like a redstone repeater on steroids as it can be used for pludding 4 extra Usb appliances with the help of only one port on either your laptop or your pc. It really is just a simple USB-Hub which has a single USB-C port at the top as an input port, and two USB-C type and two USB-A ports on its sides and bottom respectively. 
 
 **Here's what the PCB looks like:**
 
